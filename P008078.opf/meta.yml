@@ -3,5 +3,42 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W16936
   title: གསུང་འབུམ། བློ་བཟང་བཤད་སྒྲུབ་རྒྱ་མཚོ།
-  volume: ''
+  volume:
+    d324286d8c3f4d4eafb5f43829eb0510:
+      image_group_id: I4905
+      title: ''
+      volume_number: 1
+      total_pages: 802
+    2fd8a0fab92748638e701bb494a83629:
+      image_group_id: I4906
+      title: ''
+      volume_number: 2
+      total_pages: 1153
+    4b10caa8900d480587b5e8c9aac0a028:
+      image_group_id: I4907
+      title: ''
+      volume_number: 3
+      total_pages: 990
+    32bd5136dcf04cce90dede45def17463:
+      image_group_id: I4908
+      title: ''
+      volume_number: 4
+      total_pages: 877
+    9cbab7ca260046e88aaae3be361fe2c1:
+      image_group_id: I4909
+      title: ''
+      volume_number: 5
+      total_pages: 977
+    f44229d832fa47b0ad52ca2e8ab213e2:
+      image_group_id: I4910
+      title: ''
+      volume_number: 6
+      total_pages: 649
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། བློ་བཟང་བཤད་སྒྲུབ་རྒྱ་མཚོ།
+  author: ''
+  sku: P008078
+  cover: cover.jpg
+  layers:
+  - pagination
