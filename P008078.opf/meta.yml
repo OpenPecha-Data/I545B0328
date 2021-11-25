@@ -1,5 +1,7 @@
 id: P008078
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W16936
   title: གསུང་འབུམ། བློ་བཟང་བཤད་སྒྲུབ་རྒྱ་མཚོ།
@@ -41,10 +43,3 @@ source_metadata:
       volume_number: 6
       total_pages: 649
       base_file: v006.txt
-ebook_metadata:
-  title: གསུང་འབུམ། བློ་བཟང་བཤད་སྒྲུབ་རྒྱ་མཚོ།
-  author: ''
-  sku: P008078
-  cover: cover.jpg
-  layers:
-  - pagination
